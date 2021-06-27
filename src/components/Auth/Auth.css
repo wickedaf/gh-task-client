@@ -1,0 +1,16 @@
+.social-btn img{
+    height: 25px !important;
+    
+}
+.social-btn{
+  border: 0 !important;
+}
+
+
+  @media (min-width: 1200px) { 
+
+    .auth-container.my-5 {
+      max-width:  50%;
+      margin: 0 auto;
+    }
+   }
